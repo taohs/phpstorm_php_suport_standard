@@ -18,3 +18,12 @@ TBD: Have a full copy of .git repo within IDE and add it as an external library 
 [PHPDOC]:https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md
 [Apache 2]:https://www.apache.org/licenses/LICENSE-2.0
 [Relevant open issues]:https://youtrack.jetbrains.com/issues/WI?q=%23Unresolved+Subsystem%3A+%7BPHP+lib+stubs%7D+order+by%3A+votes+
+
+
+
+
+
+
+
+##vim 使用方法：
+下载在本地后 使用ctag命令打包成tags,在vimrc文件中引入，即可在vim中查看代码提示；
