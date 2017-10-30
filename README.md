@@ -25,5 +25,5 @@ TBD: Have a full copy of .git repo within IDE and add it as an external library 
 
 
 
-###vim 使用方法：
+### vim 使用方法：
 下载在本地后 使用ctag命令打包成tags,在vimrc文件中引入，即可在vim中查看代码提示；
